@@ -1,9 +1,7 @@
 name: paddle_wrapper
 description: >-
-  A type-safe Flutter wrapper for Paddle Billing (Paddle.js v2). Overlay and
-  inline checkout, checkout events, localized price previews, transaction
-  previews and Paddle Retain for Flutter web.
-version: 0.1.0
+  Paddle Billing for Flutter web: overlay and inline checkout, typed checkout events, localized price previews, Paddle Retain and payment confirmation.
+version: 0.1.1
 homepage: https://github.com/Qasimkaddumi/paddle_wrapper
 repository: https://github.com/Qasimkaddumi/paddle_wrapper
 issue_tracker: https://github.com/Qasimkaddumi/paddle_wrapper/issues

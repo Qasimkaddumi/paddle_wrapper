@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Shorten the package description to meet pub.dev guidelines.
+
 ## 0.1.0
 
 * Initial release for Flutter web.
