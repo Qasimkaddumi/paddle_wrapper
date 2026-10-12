@@ -1,0 +1,21 @@
+name: paddle_wrapper_example
+description: Example app for the paddle_wrapper package (Paddle Billing on Flutter web).
+publish_to: none
+
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.2
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  paddle_wrapper:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
